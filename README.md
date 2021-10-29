@@ -8,9 +8,9 @@
 
 <h3>I'm currently learning 🤔:</h3>
 <ul>
-  <li>C++</li>
-  <li>Node.js </li>
-  <li>C#</li>
+  <li>C++⁉</li>
+  <li>Node.js🧰</li>
+  <li>C#🚙</li>
   <li>React.js⚛</li>
 </ul>
 
