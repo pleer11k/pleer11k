@@ -10,5 +10,11 @@
   <li>C++</li>
   <li>Node.js </li>
   <li>C#</li>
+  <li>React.js</li>
 </ul>
-<h3>Also i have 20.000+ subs on YT 😎.</h3>
+<h3>What i know:</h3>
+<ul>
+  <li>HTML/CSS</li>
+  <li>Javascript</li>
+  <li>Python</li>
+</ul>
