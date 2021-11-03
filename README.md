@@ -20,4 +20,5 @@
   <li>JavaScript 🧱</li>
   <li>Python 🐍</li>
 </ul>
+<hr/>
 <p>Hope you enjoy my works!</p>
