@@ -4,6 +4,7 @@
 
 <ul>
   <li>Web programming 🖥</li>
+  <li>Game development 🎮</li>
 </ul>
 
 <h3>I'm currently learning 🤔:</h3>
