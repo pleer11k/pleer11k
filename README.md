@@ -11,8 +11,6 @@
 <ul>
   <li>C++ ⁉</li>
   <li>Node.js 🧰</li>
-  <li>C# 🚙</li>
-  <li>React.js ⚛</li>
 </ul>
 
 <h3>My skills 🤓:</h3>
@@ -20,6 +18,7 @@
   <li>HTML/CSS 📃</li>
   <li>JavaScript 🧱</li>
   <li>Python 🐍</li>
+  <li>C# 🚙</li>
 </ul>
 <hr/>
 <p>Hope you enjoy my works!</p>
